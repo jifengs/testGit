@@ -33,6 +33,8 @@
                                      ];
     [AvoidCrash setupNoneSelClassStringsArr:noneSelClassStrings];
     
+    NSLog(@"当前所在是test分支");
+    
     return YES;
 }
 
